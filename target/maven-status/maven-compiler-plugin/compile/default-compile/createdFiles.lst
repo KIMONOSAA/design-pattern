@@ -1,0 +1,8 @@
+com\kimo\factory\dto\AliPay.class
+com\kimo\factory\abs\AbstractPaymentFactory.class
+com\kimo\controller\PayController.class
+com\kimo\factory\dto\UnionPay.class
+com\kimo\factory\abs\PaymentStrategyFactory.class
+com\kimo\factory\inter\PaymentFactory.class
+com\kimo\factory\dto\WeChatPay.class
+com\kimo\DesignApplication.class
